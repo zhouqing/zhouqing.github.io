@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "逃跑神学",
+  "short_name": "逃跑神学",
+  "description": "重新思考写作的事",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
